@@ -1,0 +1,7 @@
+[...]
+# para funcionamento do MS copie esse arquivo e remova o .sample do final
+# Arquivo usado para adicionar credenciais do banco de dados, coloque o endereço e senha bla bla
+spring.datasource.url = <URL_DO_BANCO_DE_DADOS>
+spring.datasource.username = <USERNAME>
+spring.datasource.password = <SENHA>
+[...]

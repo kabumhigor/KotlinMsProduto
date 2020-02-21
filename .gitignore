@@ -31,4 +31,4 @@ build/
 .vscode/
 
 *.properties
-.DS_Store
+*.DS_Store*
